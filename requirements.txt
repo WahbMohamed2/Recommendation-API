@@ -1,0 +1,26 @@
+# Core scientific/data stack
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Jupyter + VSCode integration
+jupyter
+ipykernel
+notebook
+jupyterlab
+
+# NLP
+nltk
+
+# Deep learning
+tensorflow
+
+# Computer vision
+opencv-python
+
+# Extra utilities
+tqdm
+requests
+openpyxl
