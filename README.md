@@ -1,8 +1,6 @@
-Here's a professional `README.md` file tailored for your **Recommendation API Project**, incorporating everything we've discussed—FastAPI, the structure, the POST endpoint that receives user data and returns a recommended number of questions per topic and level.
 
----
 
-```markdown
+```
 # Recommendation API
 
 This project is a structured and scalable **Recommendation System API** built using **FastAPI**. It is designed to dynamically allocate a number of practice questions per topic and level based on user progress and available questions, ensuring a personalized and adaptive learning experience.
